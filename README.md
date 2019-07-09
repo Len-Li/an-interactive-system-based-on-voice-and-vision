@@ -13,5 +13,5 @@
 * 主体&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jetson nano
 
 * 外设&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kinect v2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麦克风  音箱
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麦克风  音箱
  
