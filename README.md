@@ -9,7 +9,9 @@
 
 
 ## 1.平台组成部分
-**主体    jetson nano
+
+*主体    jetson nano
+
 *外设    kinect v2
         麦克风  音箱
  
