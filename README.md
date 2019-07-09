@@ -1,6 +1,7 @@
 # 基于视觉语音的人机交互系统
 
  系统框图
+ <center>诶嘿</center>
 
 ![system picture](https://github.com/lilelife0/an-interactive-system-based-on-voice-and-vision/blob/master/图片1.png)
 
