@@ -20,10 +20,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wukong-robot(语音)
  
 ## 2.调用到的库
-|       跟踪算法       | pysot  |   |   |   |
-|---------------------|----------------|---|---|---|
+|       跟踪算法      |      pysot     |   |   |   |
+|:-------------------:|:--------------:|---|---|---|
 |       语音api       |  wukong-robot  |   |   |   |
-|kinect v2的python库 |    pylibfreenect2     |   |   |   |
+| kinect v2的python库 | pylibfreenect2 |   |   |   |
 |                     |                |   |   |   |
 ## 3.具体算法
 详见代码
