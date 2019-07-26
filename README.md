@@ -21,6 +21,11 @@
  
 ## 2.调用到的库
 我们使用了商汤开源的[pysot](https://github.com/STVIR/pysot)
+| kinect v2的python库 | [pylibfreenect2]https://github.com/r9y9/pylibfreenect2 |
+|---------------------|----------------|
+|       语音api       |  [wukong-robot]https://github.com/wzpan/wukong-robot  |
+|       跟踪算法      |      [pysot](https://github.com/STVIR/pysot)     |
+
 ## 3.具体算法
 详见代码
 ## 4.可能的应用
