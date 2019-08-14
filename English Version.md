@@ -9,14 +9,17 @@ This is a National Undergraduate Innovation and Entrepreneurship Training Progra
 
 ## 1.Component
 * main part
+
 jetson nano
 stm32
 
 * other hardware
+
 kinect v2
 microphone  speaker
 
 * algorithm
+
 YOLO
 wukong-robot(voice)
 
