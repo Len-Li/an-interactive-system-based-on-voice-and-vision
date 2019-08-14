@@ -8,18 +8,17 @@
 This is a National Undergraduate Innovation and Entrepreneurship Training Programs we finished when we were second year student.Our prototype is a small car armed with Mecanum Wheel.We can control car via speech,on the same time ,the car can also obtain surroundings information through depth camera,thus make further interaction with people or surroundings.
 
 ## 1.Component
-
 * main part
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jetson nano<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stm32
+jetson nano
+stm32
 
-* other hardwere
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kinect v2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;microphone  speaker
+* other hardware
+kinect v2
+microphone  speaker
 
 * algorithm
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOLO<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wukong-robot(voice)
+YOLO
+wukong-robot(voice)
 
 ## 2.Libraries we used
 |       tool      |      link     |
